@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning VUE.JS
+- 🌱 I’m currently learning REACT.JS
 - 👯 I’m looking to collaborate on Blockchain
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about anything about tech
